@@ -3,7 +3,7 @@
 
 BookStore includes:
 
-All my base and derived classes include destructors, copy constructors, void set functions, get functions, calc functions, derived classes included composition, inheritance and polymorphism’s virtual function but also I did not do cascading because I used it in my midterm classes which I have practiced on a lot during the semester. 
+All my base and derived classes include destructors, copy constructors, void set functions, get functions, calc functions, derived classes included composition, inheritance and polymorphism’s virtual function. 
 
 **1.customer- Base Class with .h and .cpp.**
 - [x] This base class has one string that inputs customer Id using File as a password to open up the program.
@@ -32,7 +32,7 @@ All my base and derived classes include destructors, copy constructors, void set
 **5.Main**
 - [x] using employees.txt file in the debug document folder for it to open up.
 - [x] in order for the program to operate, I put exception handling with “try&catch” and do while statements to test if the file has the right input form, if it doesn’t it would say file couldn’t be found.
-- [x] also in do while statement I put if statements  to check if the user put the right Id and checks it with the file so the program operates and moves to the next step.
+- [x] also in do while statement I put if statements to check if the user put the right Id and checks it with the file so the program operates and moves to the next step.
 
 **The End**
 - [x] From there I just do the testing by doing and easy way of using registers, and I do another one by using polymorphism to show the programmer the essentiality of using different ways to output something ive learned in during advanced c++ class.
