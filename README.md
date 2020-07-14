@@ -6,12 +6,12 @@ BookStore includes:
 All my base and derived classes include destructors, copy constructors, void set functions, get functions, calc functions, derived classes included composition, inheritance and polymorphism’s virtual function but also I did not do cascading because I used it in my midterm classes which I have practiced on a lot during the semester. 
 
 1.customer- Base Class with .h and .cpp.
-----This base class has one string that inputs customer Id using File as a password to open up the program.
-----Two double which compute the taxRate, Coupon 
-----Subtotal works differently by doing its calculation after an item is added, also depends on taxRate and coupon too.
-----also have calc classes to do the calculations with the calc total
-----virtual print function useful for polymorphism to be called from main depending on the classes’s parameters written.
----- this helps us use inheritance.
+-This base class has one string that inputs customer Id using File as a password to open up the program.
+-Two double which compute the taxRate, Coupon 
+-Subtotal works differently by doing its calculation after an item is added, also depends on taxRate and coupon too.
+-Also have calc classes to do the calculations with the calc total.
+-virtual print function useful for polymorphism to be called from main depending on the classes’s parameters written.
+-this helps us use inheritance.
 
 
 2.subject- Derived Class with .h and .cpp.
