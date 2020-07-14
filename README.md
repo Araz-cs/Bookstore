@@ -24,7 +24,7 @@ All my base and derived classes include destructors, copy constructors, void set
 - [x] I added two doubles as cost for black print and colorful print.
 - [x] I added void set and get as usual.
 - [x] I added void calcBlack printer and void calcColor printer functions to do the calculation cost time number of colorful and black prints to get the right subtotal.
----- I added get functions, void set functions, and virtual print function using inheritance. 
+- [x]  I added get functions, void set functions, and virtual print function using inheritance. 
 
 **4.noFileException- exception handling class .h.**
 - [x] I added runtime error class to indicate if they input the right input from the file, if not it output that file cant be found.(I use this for the customer Id as a password to get into the program by committing exception handling into it).
